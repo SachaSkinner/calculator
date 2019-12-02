@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+}
+#biggest-screen {
+    text-align: center;
+    position: relative;
+}
+.button {
+    border-radius: 40%;
+    padding: 10px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+#biggest-screen {
+    border: 3px solid black;
+    width: 400px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+#window {
+    background-color: rgb(104, 97, 97);
+    color: white;
+    padding: 10px;
+
+}
