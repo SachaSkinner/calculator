@@ -1,3 +1,3 @@
 function getValue(objButton) {
-  alert(objButton.value)
+  document.getElementById('window').innerHTML = objButton.value;
 }
